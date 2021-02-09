@@ -1,14 +1,14 @@
-## Getting Started
+## This is the Python file
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The basic Python coding is included in pygame_basic file.
+The Project_Pang file : Old classic game called Pang.
+
 
 ## Folder Structure
 
 The workspace contains two folders by default, where:
-
+- `Project_Pang`: Old classic game
+- `pygame_basic`: The basic Python codings for creating a simple game
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
