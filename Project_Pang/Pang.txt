@@ -1,0 +1,18 @@
+Pang Game build
+
+[Game Requirement]
+1. character is located at the bottom, can only move left and right
+2. use weapon when space bar is pressed down
+3. One big ball displays and bounce around
+4. If the ball get hit by the weapon, it splits and the smallest ball will be gone
+5. When the ball is gone, Game ends (success)
+6. When the ball hits the character, Game over (Fail)
+7. Time limit of 99 seconds
+8. FPS is == to 30
+
+[Game image]
+1. background : 640 by 480 (width, height) - background.png
+2. stage : 640 by 50 - stage.png
+3. character : 33 by 60 - character.png
+4. weapon : 20 by 430 - weapon.png
+5. ball : 160 by 160, 80 by 80, 40 by 40, 20 by 20 - ball1.png ~ ball4.png
